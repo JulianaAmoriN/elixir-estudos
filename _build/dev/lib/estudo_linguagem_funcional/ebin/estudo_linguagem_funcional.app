@@ -1,0 +1,12 @@
+{application,estudo_linguagem_funcional,
+             [{applications,[kernel,stdlib,elixir,logger,nimble_csv,faker,
+                             scribe]},
+              {description,"estudo_linguagem_funcional"},
+              {modules,['Elixir.App.CLI.Contacts','Elixir.App.CLI.Main',
+                        'Elixir.App.CLI.Menu','Elixir.App.CLI.Menu.Choice',
+                        'Elixir.App.CLI.Menu.Intens','Elixir.App.DB.CSV',
+                        'Elixir.EstudoLinguagemFuncional',
+                        'Elixir.Mix.Tasks.AddFakeContacts',
+                        'Elixir.Mix.Tasks.Start']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
