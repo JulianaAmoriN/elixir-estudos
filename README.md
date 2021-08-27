@@ -1,21 +1,3 @@
-# EstudoLinguagemFuncional
+###Estudo Linguagem Funcional
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `estudo_linguagem_funcional` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:estudo_linguagem_funcional, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/estudo_linguagem_funcional](https://hexdocs.pm/estudo_linguagem_funcional).
-
+(Curso Udemy)[https://www.udemy.com/course/programacao-funcional-com-elixir/]
