@@ -1,3 +1,3 @@
 ###Estudo Linguagem Funcional
 
-(Curso Udemy)[https://www.udemy.com/course/programacao-funcional-com-elixir/]
+[Curso Udemy- Programação funcional com elixir](https://www.udemy.com/course/programacao-funcional-com-elixir/)
